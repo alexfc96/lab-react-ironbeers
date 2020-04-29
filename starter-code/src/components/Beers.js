@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import { Link, Route } from "react-router-dom";
+import { Link} from "react-router-dom";
 import Axios from 'axios';
-import ShowInfoBeer from './ShowInfoBeer';
 
 const STATUS = {
   ISLOADING : 'loading',

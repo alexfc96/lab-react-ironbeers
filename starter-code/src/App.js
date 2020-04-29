@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Route, Link, Switch, withRouter } from "react-router-dom";
+import { Route, Link, Switch } from "react-router-dom";
 import './App.css';
 import Beers from './components/Beers';
 import RandomBeer from './components/Random';
